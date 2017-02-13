@@ -1,0 +1,6 @@
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\bin\InformixTest.dll.config
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\bin\InformixTest.dll
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\bin\InformixTest.pdb
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\obj\Debug\InformixTest.csprojResolveAssemblyReference.cache
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\obj\Debug\InformixTest.dll
+D:\Soporte\GIT\InformixTest\InformixTest\InformixTest\obj\Debug\InformixTest.pdb
